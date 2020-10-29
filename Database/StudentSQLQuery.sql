@@ -1,9 +1,4 @@
 
-CREATE DATABASE FormativeAssessment2_RPG521;
-USE FormativeAssessment2_RPG521;
-
-SELECT * FROM Student;
-
 CREATE TABLE Student(
     StudentID INT NOT NULL,
     Firstname VARCHAR(50) NOT NULL,
